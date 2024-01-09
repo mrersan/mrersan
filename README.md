@@ -1,4 +1,5 @@
 ### Hi there 👋
+## - 🌱 I’m currently learning Java and studying Software Engineering.
 [web page](https://https://bau.edu.tr/icerik/3885-yazilim-muhendisligi )
 
 <!--
@@ -7,4 +8,4 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning Java and studying Software Engineering.
+
