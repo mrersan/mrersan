@@ -1,5 +1,5 @@
-### Hi there 👋
-## - 🌱 I’m currently learning Java and studying Software Engineering.
+
+## - 🌱 I’m currently studying Software Engineering and learning Java  .
 [web page](https://https://bau.edu.tr/icerik/3885-yazilim-muhendisligi )
 
 <!--
