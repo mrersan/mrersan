@@ -4,7 +4,7 @@
 
 ## Connect Me
 
-[![LinkedIn](<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height="50">)](https://tr.linkedin.com/in/arhan-ersan-4268a4272)
+[![LinkedIn](<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height="50">)]](https://tr.linkedin.com/in/arhan-ersan-4268a4272)
 
 
 <!--
