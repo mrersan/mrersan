@@ -4,7 +4,7 @@
 
 ## Connect Me
 <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height="50">
-![](https://cdn-icons-png.flaticon.com/256/174/174857.png)(https://tr.linkedin.com/in/arhan-ersan-4268a4272)
+![](https://tr.linkedin.com/in/arhan-ersan-4268a4272)
 
 <!--
 **mrersan/mrersan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
