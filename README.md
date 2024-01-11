@@ -4,7 +4,8 @@
 
 ## Connect Me
 
-[![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png)](https://tr.linkedin.com/in/arhan-ersan-4268a4272)
+[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="alt text" width="32" height="28">](https://tr.linkedin.com/in/arhan-ersan-4268a4272)
+
 
 
 <!--
